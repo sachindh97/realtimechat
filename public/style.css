@@ -1,0 +1,48 @@
+body {
+    background-color: aliceblue;
+}
+
+section {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #dadcd8;
+    padding: 50px 10px;
+}
+
+.user-area {
+    margin: auto;
+    width: 60%;
+}
+
+.msg-area {
+    margin: auto;
+    width: 60%;
+    height: 200px;
+    overflow-y: auto;
+}
+
+.type-msg {
+    margin: auto;
+    width: 60%;
+}
+
+.rightSide {
+    text-align: right;
+    font-weight: 300;
+
+}
+
+.leftSide {
+    text-align: left;
+    font-weight: 400;
+
+}
+
+input[type="file"] {
+    display: none !important;
+}
+
+
+.screenHide {
+    display: none;
+}
