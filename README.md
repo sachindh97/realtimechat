@@ -1,2 +1,2 @@
-first user enter username after then he go to chat page
-then user can chat with other user 
+1. the first user enters their username after then he goes to the chat page
+2. then the user can chat with another user 
